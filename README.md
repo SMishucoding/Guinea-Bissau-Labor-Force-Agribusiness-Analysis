@@ -1,13 +1,13 @@
 # Guinea-Bissau-Labor-Force-Agribusiness-Analysis
 # 🇬🇼 Guinea-Bissau Labor Force & Agribusiness Analysis
 
-## 📊 Understanding Employment, Productivity, and Structural Transformation
+## Understanding Employment, Productivity, and Structural Transformation
 
 This project presents a comprehensive analysis of labor market dynamics in Guinea-Bissau, with a focus on the transition from primary agriculture to agribusiness. Using nationally representative Labor Force Survey (LFS) data, the analysis examines workforce composition, job quality, and structural constraints affecting economic transformation.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Distinguish between primary agriculture and agribusiness employment  
 - Assess job quality across sectors (formality, occupation, earnings)  
@@ -17,7 +17,7 @@ This project presents a comprehensive analysis of labor market dynamics in Guine
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 ### 1. Agriculture Dominates Employment
 The majority of workers are concentrated in primary agriculture, while agribusiness remains small and underdeveloped.
@@ -45,7 +45,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 📈 Methodology
+##  Methodology
 
 ### Data Source
 - National Labor Force Survey (LFS)
@@ -68,7 +68,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 📊 Sample Results
+## Sample Results
 
 ### Education by Sector
 
@@ -90,7 +90,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - Earnings are categorical (not continuous income values)  
 - Results reflect relative income positioning  
@@ -98,7 +98,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 🚧 Constraints Identified
+## Constraints Identified
 
 ### Supply-Side Constraints
 - Low education levels  
@@ -113,7 +113,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 🌍 Policy Implications
+## Policy Implications
 
 - Invest in education and skills development  
 - Strengthen agribusiness value chains  
@@ -123,7 +123,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python (Pandas, NumPy)  
 - Google Colab  
@@ -131,7 +131,7 @@ Most workers fall into low income categories, with limited differentiation acros
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Siddika Bhuiyanmmishu
 
@@ -139,6 +139,6 @@ World Bank (STC)
 
 ---
 
-## 📌 Final Insight
+##  Final Insight
 
 Structural transformation is constrained not only by low human capital, but also by limited demand for higher-productivity labor.
